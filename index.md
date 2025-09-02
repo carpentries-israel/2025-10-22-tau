@@ -303,12 +303,12 @@ Edit the text to match who can attend the workshop. For instance:
 
 <h2>Acknowledgements</h2>
 
-This workshop is made possible by the generous financial support of <a href="https://us-rse.org/">The United States Research Software Engineer Association (US-RSE)</a>, by <a href="https://carpentries.org/">The Carpentries</a>,
-by <a href="https://www.tau.ac.il/">Tel Aviv University</a>, 
-by the <a ref="https://www.israel-cores.org/">Israel Research Core Facilities (IRCF)</a>,
-by the <a href="https://www.weizmann.ac.il/">Weizmann Institute of Science</a>, 
-by <a href="https://library.gwu.edu/">The George Washington University Libraries</a>, 
-and by <a href="https://elixir-europe.org/">ELIXIR</a>.
+This workshop is made possible by the generous financial support of <a href="https://us-rse.org/" target="_blank">The United States Research Software Engineer Association (US-RSE)</a>, by <a href="https://carpentries.org/">The Carpentries</a>,
+by <a href="https://www.tau.ac.il/" target="_blank">Tel Aviv University</a>, 
+by the <a href="https://www.israel-cores.org/" target="_blank">Israel Research Core Facilities (IRCF)</a>,
+by the <a href="https://www.weizmann.ac.il/" target="_blank">Weizmann Institute of Science</a>, 
+by <a href="https://library.gwu.edu/" target="_blank">The George Washington University Libraries</a>, 
+and by <a href="https://elixir-europe.org/" target="_blank">ELIXIR</a>.
 
 <p>
 <div class="container">
