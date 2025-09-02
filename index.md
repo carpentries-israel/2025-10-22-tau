@@ -301,6 +301,67 @@ Edit the text to match who can attend the workshop. For instance:
 
 <hr/>
 
+<h2>Acknowledgements</h2>
+
+This workshop is made possible by the generous financial support of <a href="https://us-rse.org/">The United States Research Software Engineer Association (US-RSE)</a>, by <a href="https://carpentries.org/">The Carpentries</a>,
+by <a href="https://www.tau.ac.il/">Tel Aviv University</a>, 
+by the <a href="https://www.weizmann.ac.il/">Weizmann Institute of Science</a>, 
+by <a href="https://library.gwu.edu/">The George Washington University Libraries</a>, 
+and by <a href="https://elixir-europe.org/">ELIXIR</a>.
+
+<p>
+<div class="container">
+  <div class="row justify-content-md-center">
+      <div class="col-auto">
+        <img src='assets/img/us_rse_logo_transparent.png' class="img-fluid"/>
+        <img src='assets/img/TheCarpentries.png'  class="img-fluid"/>
+        <img src='assets/img/TAU_Logo_HomePage_Eng.png'  class="img-fluid"/>
+        <img src='assets/img/wis.png'  class="img-fluid"/>
+        <img src='assets/img/gw_iddol_libraries_2c-320.png'  class="img-fluid"/>
+        <img src='assets/img/elixir.png'  class="img-fluid"/>
+      </div>
+  </div>
+</div>
+</p>
+
+{% comment%}
+REGISTRATION
+{% endcomment %}
+<hr/>
+
+<h2 id="registration">Registration</h2>
+
+<!--
+<p>
+To register, please fill out and submit the registration form:
+</p>
+-->
+
+<p class="text-center">
+  <a href="https://forms.gle/n33ntojZtrfMY7Nr9" target="_blank">
+    <button type="button" class="btn btn-info">Registration Form</button>
+  </a>
+</p>
+
+<!--
+<p><b><i>Registration for this event is now closed,</i></b>  but you may fill out the form below if you wish to be notified about future Carpentries workshops in Israel.</p>
+
+<p class="text-center">
+  <a href="https://forms.gle/tEtkFrugxrEng7Ss7" target="_blank">
+    <button type="button" class="btn btn-info">Link to Expression of Interest Form</button>
+  </a>
+</p>
+-->
+
+<!--
+<p class="text-center">
+  <a href="https://forms.gle/3hf1CoSwLeh5FeK98" target="_blank">
+    <button type="button" class="btn btn-info">Data Carpentry Genomics @ Weizmann Registration Form</button>
+  </a>
+</p>
+-->
+<hr/>
+
 {% comment%}
 CODE OF CONDUCT
 {% endcomment %}
