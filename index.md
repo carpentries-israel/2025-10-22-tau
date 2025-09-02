@@ -305,6 +305,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 This workshop is made possible by the generous financial support of <a href="https://us-rse.org/">The United States Research Software Engineer Association (US-RSE)</a>, by <a href="https://carpentries.org/">The Carpentries</a>,
 by <a href="https://www.tau.ac.il/">Tel Aviv University</a>, 
+by the <a ref="https://www.israel-cores.org/"Israel Research Core Facilities (IRCF)</a>,
 by the <a href="https://www.weizmann.ac.il/">Weizmann Institute of Science</a>, 
 by <a href="https://library.gwu.edu/">The George Washington University Libraries</a>, 
 and by <a href="https://elixir-europe.org/">ELIXIR</a>.
@@ -316,6 +317,7 @@ and by <a href="https://elixir-europe.org/">ELIXIR</a>.
         <img src='assets/img/us_rse_logo_transparent.png' class="img-fluid"/>
         <img src='assets/img/TheCarpentries.png'  class="img-fluid"/>
         <img src='assets/img/TAU_Logo_HomePage_Eng.png'  class="img-fluid"/>
+        <img src='assets/img/ircf-logo.png' class="img-fluid" />
         <img src='assets/img/wis.png'  class="img-fluid"/>
         <img src='assets/img/gw_iddol_libraries_2c-320.png'  class="img-fluid"/>
         <img src='assets/img/elixir.png'  class="img-fluid"/>
