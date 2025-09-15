@@ -4,17 +4,17 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "Tel Aviv University"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "Detailed location information will be sent to workshop registrants"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "Tel Aviv University"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "il"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
-latitude: "45"        # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: "32.111"        # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "34.8058"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "22-23 October 2025"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 5:00 pm (both days)"   # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2025-10-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2025-10-23        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Dan Kerchner", "Dayana Yahalomi", "Amir Szitenberg", "Avital Sarusi-Portuguez"]      # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["kerchner@gwu.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -301,31 +301,6 @@ Edit the text to match who can attend the workshop. For instance:
 
 <hr/>
 
-<h2>Acknowledgements</h2>
-
-This workshop is made possible by the generous financial support of <a href="https://us-rse.org/" target="_blank">The United States Research Software Engineer Association (US-RSE)</a>, by <a href="https://carpentries.org/">The Carpentries</a>,
-by <a href="https://www.tau.ac.il/" target="_blank">Tel Aviv University</a>, 
-by the <a href="https://www.israel-cores.org/" target="_blank">Israel Research Core Facilities (IRCF)</a>,
-by the <a href="https://www.weizmann.ac.il/" target="_blank">Weizmann Institute of Science</a>, 
-by <a href="https://library.gwu.edu/" target="_blank">The George Washington University Libraries</a>, 
-and by <a href="https://elixir-europe.org/" target="_blank">ELIXIR</a>.
-
-<p>
-<div class="container">
-  <div class="row justify-content-md-center">
-      <div class="col-auto">
-        <img src='assets/img/us_rse_logo_transparent.png' class="img-fluid"/>
-        <img src='assets/img/TheCarpentries.png'  class="img-fluid"/>
-        <img src='assets/img/TAU_Logo_HomePage_Eng.png'  class="img-fluid"/>
-        <img src='assets/img/ircf-logo.png' class="img-fluid" />
-        <img src='assets/img/wis.png'  class="img-fluid"/>
-        <img src='assets/img/gw_iddol_libraries_2c-320.png'  class="img-fluid"/>
-        <img src='assets/img/elixir.png'  class="img-fluid"/>
-      </div>
-  </div>
-</div>
-</p>
-
 {% comment%}
 REGISTRATION
 {% endcomment %}
@@ -478,6 +453,30 @@ The lesson taught in this workshop is being piloted and a precise schedule is ye
 
 <hr/>
 
+<h2>Acknowledgements</h2>
+
+This workshop is made possible by the generous financial support of <a href="https://us-rse.org/" target="_blank">The United States Research Software Engineer Association (US-RSE)</a>, by <a href="https://carpentries.org/">The Carpentries</a>,
+by <a href="https://www.tau.ac.il/" target="_blank">Tel Aviv University</a>, 
+by the <a href="https://www.israel-cores.org/" target="_blank">Israel Research Core Facilities (IRCF)</a>,
+by the <a href="https://www.weizmann.ac.il/" target="_blank">Weizmann Institute of Science</a>, 
+by <a href="https://library.gwu.edu/" target="_blank">The George Washington University Libraries</a>, 
+and by <a href="https://elixir-europe.org/" target="_blank">ELIXIR</a>.
+
+<p>
+<div class="container">
+  <div class="row justify-content-md-center">
+      <div class="col-auto">
+        <img src='assets/img/us_rse_logo_transparent.png' class="img-fluid"/>
+        <img src='assets/img/TheCarpentries.png'  class="img-fluid"/>
+        <img src='assets/img/TAU_Logo_HomePage_Eng.png'  class="img-fluid"/>
+        <img src='assets/img/ircf-logo.png' class="img-fluid" />
+        <img src='assets/img/wis.png'  class="img-fluid"/>
+        <img src='assets/img/gw_iddol_libraries_2c-320.png'  class="img-fluid"/>
+        <img src='assets/img/elixir.png'  class="img-fluid"/>
+      </div>
+  </div>
+</div>
+</p>
 
 {% comment %}
 SETUP
