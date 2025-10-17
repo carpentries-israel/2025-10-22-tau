@@ -493,27 +493,14 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 <p>
-  To participate in a
-  {% if site.carpentry == "swc" %}
-  Software Carpentry
-  {% elsif site.carpentry == "dc" %}
-  Data Carpentry
-  {% elsif site.carpentry == "lc" %}
-  Library Carpentry
-  {% endif %}
-  workshop,
-  you will need access to software as described below.
-  In addition, you will need an up-to-date web browser.
+To participate in the workshop, you will need a laptop with an up-to-date web browser.  In addition, Windows users may need to install additional software (see instructions below).
 </p>
 <p>
   A list of common issues that occur during installation can be found on the Carpentries
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
-{% comment %}
-Fix this later:
 {% include install_instructions/shell-brief.html %}
-{% endcomment %}
 
 {% comment %}
 For online workshops, the section below provides:
